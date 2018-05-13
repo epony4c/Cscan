@@ -1,4 +1,5 @@
-# Cscan
+# Cscan 
+# C段扫描工具
 
 Python 3 开发
 
